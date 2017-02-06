@@ -1,0 +1,88 @@
+[{
+  "name": "Joe",
+  "defense": 4,
+  "attack": 6,
+  "health": 9
+},
+{
+  "name": "Nick",
+  "defense": 2,
+  "attack": 10,
+  "health": 16
+},
+{
+  "name": "John",
+  "defense": 3,
+  "attack": 9,
+  "health": 2
+
+},
+{
+  "name": "Tyrion",
+  "defense": 6,
+  "attack": 8,
+  "health": 3
+
+},
+{
+  "name": "Tywin",
+  "defense": 7,
+  "attack": 2,
+  "health": 8
+
+},
+{
+  "name": "Mike",
+  "defense": 9,
+  "attack": 2,
+  "health": 12
+
+},
+{
+  "name": "John",
+  "defense": 1,
+  "attack": 3,
+  "health": 13
+
+},
+{
+  "name": "Darwin",
+  "defense": 2,
+  "attack": 9,
+  "health": 13
+
+},
+{
+  "name": "Russel",
+  "defense": 9,
+  "attack": 8,
+  "health": 8
+
+},
+{
+  "name": "Kevin",
+  "defense": 9,
+  "attack": 3,
+  "health": 19
+
+},
+{
+  "name": "Ann",
+  "defense": 5,
+  "attack": 4,
+  "health": 11
+
+},
+{
+  "name": "Lann",
+  "defense": 4,
+  "attack": 6,
+    "health": 14
+
+},
+{
+  "name": "Phil",
+  "defense": 2,
+  "attack": 6,
+  "health": 16
+}]

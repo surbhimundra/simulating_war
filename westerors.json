@@ -1,0 +1,88 @@
+[{
+  "name": "Alpha",
+  "defense": 9,
+  "attack": 8,
+  "health": 13
+},
+{
+  "name": "Beta",
+  "defense": 6,
+  "attack": 5,
+  "health": 14
+
+},
+{
+  "name": "Gamma",
+  "defense": 2,
+  "attack": 7,
+  "health": 17
+
+},
+{
+  "name": "Ruth",
+  "defense": 3,
+  "attack": 9,
+  "health": 11
+
+},
+{
+  "name": "Ben",
+  "defense": 4,
+  "attack": 6,
+  "health": 10
+
+},
+{
+  "name": "Chandler",
+  "defense": 4,
+  "attack": 8,
+  "health": 19
+
+},
+{
+  "name": "Monica",
+  "defense": 6,
+  "attack": 7,
+  "health": 9
+
+},
+{
+  "name": "Joey",
+  "defense": 4,
+  "attack": 5,
+  "health": 13
+
+},
+{
+  "name": "Ross",
+  "defense": 6,
+  "attack": 7,
+  "health": 16
+
+},
+{
+  "name": "Janice",
+  "defense": 9,
+  "attack": 3,
+  "health": 10
+
+},
+{
+  "name": "Gunther",
+  "defense": 9,
+  "attack": 8,
+    "health": 12
+
+},
+{
+  "name": "Rachel",
+  "defense": 5,
+  "attack": 2,
+  "health": 15
+},
+{
+  "name": "Emma",
+  "defense": 7,
+  "attack": 3,
+  "health": 9
+}]
